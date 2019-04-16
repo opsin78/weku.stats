@@ -1,1 +1,1 @@
-# weku.stats
+# weku-newbies-upvote-bot
